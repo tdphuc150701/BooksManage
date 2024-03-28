@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 17.0.3
+Implementation-Title: spring-boot-jwt
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bookmanage
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/spring-boot-j
+ wt/
+Created-By: Maven Integration for Eclipse
+
